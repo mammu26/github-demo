@@ -2,3 +2,5 @@ Hi this s a sample GITHUB project
 
 
 created new branch
+
+created changes in master
