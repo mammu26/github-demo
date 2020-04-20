@@ -6,3 +6,6 @@ created new branch
 created changes in master
 
 edit for merge
+
+commit my changes from branch to master
+
